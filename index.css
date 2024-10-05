@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    overflow-x: hidden;
+}
+img{
+    position: absolute;
+    width: 100vw;
+}
